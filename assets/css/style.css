@@ -8,6 +8,26 @@
  */
 
 
+.stack-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag {
+  background-color: hsl(45, 72%, 59%);
+  color: #333;
+  font-size: 0.875rem;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.tag:hover {
+  background-color: hsl(0, 0%, 95%);
+}
 
 
 

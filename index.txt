@@ -134,26 +134,26 @@ WordPress
 
 # portfolio
 
-Portfolio
+Projects
 
 All
-Web design
-Applications
-Web development
+App Development
+Machine Learning
+Robotics
 
 Select category
 All
-Web design
-Applications
-Web development
+App Development
+Machine Learning
+Robotics
 
 alt = finance
 Finance
-Web development
+App Development
 
 alt = orizon
 Orizon
-Web development
+App Development
 
 alt = fundo
 Fundo
